@@ -17,8 +17,8 @@ Version 1.2.2 is the last with PHP ">=5.4.0" support.
 **As of version 2.0, PHP 7.1.3 is required.**
 
 ```
-composer require "pimax/fb-messenger-php" "dev-master"
-composer require "pimax/fb-messenger-php" "<version>"
+composer require "alefinvest/fb-messenger-php" "dev-master"
+composer require "alefinvest/fb-messenger-php" "<version>"
 ```
 
 BASIC USAGE
